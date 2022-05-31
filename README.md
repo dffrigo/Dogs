@@ -2,13 +2,13 @@
 > Dogs database  | Dogs (puppies) | Breeds | Cute	
 
 
-<img width="297" alt="JavaScript2" src="https://user-images.githubusercontent.com/102762000/168402369-133e598e-6dff-4dbd-bf18-35007efe9603.png">
+<img width="361" alt="MIT JavaScript EJS HTML CSS" src="https://user-images.githubusercontent.com/102762000/171069877-79fdb1b9-0e53-44cc-ba07-9bd06135d033.png">
 
 
 You will be able to view, search and create your own database of dogs. Enjoy it!
 
 
-![Spilialogo](https://user-images.githubusercontent.com/102762000/168400302-2e2dd256-42f5-411f-af56-f55a19efe878.png)
+![Dogs Database](https://user-images.githubusercontent.com/102762000/171069907-44af0c59-d99c-4582-876f-8199bc938c5f.png)
 
 
 ## Installation
